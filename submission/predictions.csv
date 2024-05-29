@@ -1,0 +1,1241 @@
+MONTH,DAY,START STATION NAME,PREDICTED STATION REVENUE
+1,1,17th & Guadalupe,13.347391687289047
+1,1,2nd & Congress,22.018151248721686
+1,1,5th & Bowie,50.56851955384478
+1,1,8th & Congress,14.542899846804008
+1,1,City Hall / Lavaca & 2nd,37.42268431668165
+1,1,Convention Center / 3rd & Trinity,
+1,1,Davis at Rainey Street,15.302471358533259
+1,1,Guadalupe & 21st,5.82414159126811
+1,1,South Congress & Academy,13.666689854721698
+1,1,West & 6th St.,8.78201549084912
+1,2,17th & Guadalupe,14.000360645299939
+1,2,2nd & Congress,36.36366458536929
+1,2,5th & Bowie,58.57128111387762
+1,2,8th & Congress,15.46443455904787
+1,2,City Hall / Lavaca & 2nd,42.34353827788282
+1,2,Convention Center / 3rd & Trinity,
+1,2,Davis at Rainey Street,19.08903073532279
+1,2,Guadalupe & 21st,6.216320162140554
+1,2,South Congress & Academy,18.071504002595127
+1,2,West & 6th St.,10.566332108143373
+1,3,17th & Guadalupe,11.144340053325207
+1,3,2nd & Congress,27.182522332055044
+1,3,5th & Bowie,47.51018341980452
+1,3,8th & Congress,16.77549767492931
+1,3,City Hall / Lavaca & 2nd,37.97660097188401
+1,3,Convention Center / 3rd & Trinity,
+1,3,Davis at Rainey Street,12.577189030959095
+1,3,Guadalupe & 21st,6.68074562147411
+1,3,South Congress & Academy,24.145310291833773
+1,3,West & 6th St.,7.602694030002335
+1,4,17th & Guadalupe,15.473277822385482
+1,4,2nd & Congress,34.2105976932556
+1,4,5th & Bowie,50.49712894725083
+1,4,8th & Congress,17.794474735013484
+1,4,City Hall / Lavaca & 2nd,45.19292820041717
+1,4,Convention Center / 3rd & Trinity,
+1,4,Davis at Rainey Street,11.141222506424045
+1,4,Guadalupe & 21st,13.160580852089879
+1,4,South Congress & Academy,24.65511421233822
+1,4,West & 6th St.,10.85322986627013
+1,5,17th & Guadalupe,11.07450667403965
+1,5,2nd & Congress,47.488202880456996
+1,5,5th & Bowie,46.096621479998205
+1,5,8th & Congress,19.024152540121097
+1,5,City Hall / Lavaca & 2nd,30.32004295044438
+1,5,Convention Center / 3rd & Trinity,
+1,5,Davis at Rainey Street,11.007652442036573
+1,5,Guadalupe & 21st,10.536781336058825
+1,5,South Congress & Academy,23.28648922454479
+1,5,West & 6th St.,10.790606866842628
+1,6,17th & Guadalupe,9.916339492104747
+1,6,2nd & Congress,30.821326076301485
+1,6,5th & Bowie,38.55433570567153
+1,6,8th & Congress,23.722562813709256
+1,6,City Hall / Lavaca & 2nd,36.92979710803069
+1,6,Convention Center / 3rd & Trinity,
+1,6,Davis at Rainey Street,10.341995771927426
+1,6,Guadalupe & 21st,10.598992720760192
+1,6,South Congress & Academy,21.303776263159797
+1,6,West & 6th St.,10.12667888774186
+1,7,17th & Guadalupe,10.509188587568682
+1,7,2nd & Congress,28.586887656053158
+1,7,5th & Bowie,43.85279613902582
+1,7,8th & Congress,16.0348851028869
+1,7,City Hall / Lavaca & 2nd,35.35978507276854
+1,7,Convention Center / 3rd & Trinity,
+1,7,Davis at Rainey Street,10.707719483631495
+1,7,Guadalupe & 21st,6.336160792417338
+1,7,South Congress & Academy,25.287665210549353
+1,7,West & 6th St.,13.530831713560072
+1,8,17th & Guadalupe,15.011293756747255
+1,8,2nd & Congress,50.69513706565071
+1,8,5th & Bowie,42.72227177717257
+1,8,8th & Congress,14.72894238973629
+1,8,City Hall / Lavaca & 2nd,37.33310472367367
+1,8,Convention Center / 3rd & Trinity,
+1,8,Davis at Rainey Street,25.16166543245398
+1,8,Guadalupe & 21st,8.917309451130004
+1,8,South Congress & Academy,20.598618850649103
+1,8,West & 6th St.,8.537253847062154
+1,9,17th & Guadalupe,11.419944763842873
+1,9,2nd & Congress,50.4379401539488
+1,9,5th & Bowie,49.142940271623125
+1,9,8th & Congress,13.623271391280776
+1,9,City Hall / Lavaca & 2nd,37.242228266676115
+1,9,Convention Center / 3rd & Trinity,
+1,9,Davis at Rainey Street,21.55123796380169
+1,9,Guadalupe & 21st,5.400164951252925
+1,9,South Congress & Academy,14.847861536671145
+1,9,West & 6th St.,8.604841465875525
+1,10,17th & Guadalupe,15.375853247126745
+1,10,2nd & Congress,60.42788596727605
+1,10,5th & Bowie,44.34419999423495
+1,10,8th & Congress,17.586587348011356
+1,10,City Hall / Lavaca & 2nd,47.956995669688425
+1,10,Convention Center / 3rd & Trinity,
+1,10,Davis at Rainey Street,7.19388918970677
+1,10,Guadalupe & 21st,8.900402637849266
+1,10,South Congress & Academy,12.827707111269563
+1,10,West & 6th St.,11.366971564293435
+1,11,17th & Guadalupe,11.576891325070976
+1,11,2nd & Congress,52.26167650833872
+1,11,5th & Bowie,55.81738749234239
+1,11,8th & Congress,20.963765368917628
+1,11,City Hall / Lavaca & 2nd,33.270145552033874
+1,11,Convention Center / 3rd & Trinity,
+1,11,Davis at Rainey Street,12.638027414228205
+1,11,Guadalupe & 21st,7.847286152092516
+1,11,South Congress & Academy,14.935500059525767
+1,11,West & 6th St.,14.68280002730475
+1,12,17th & Guadalupe,12.285425673386484
+1,12,2nd & Congress,55.90340581710755
+1,12,5th & Bowie,54.98629072123715
+1,12,8th & Congress,25.528274004312827
+1,12,City Hall / Lavaca & 2nd,36.372522654607025
+1,12,Convention Center / 3rd & Trinity,
+1,12,Davis at Rainey Street,18.7183124646708
+1,12,Guadalupe & 21st,7.023008423705561
+1,12,South Congress & Academy,20.832152498936463
+1,12,West & 6th St.,11.23698575079408
+1,13,17th & Guadalupe,13.581538878788704
+1,13,2nd & Congress,60.67125934564216
+1,13,5th & Bowie,49.82767661284445
+1,13,8th & Congress,25.998698812376034
+1,13,City Hall / Lavaca & 2nd,41.934417402920495
+1,13,Convention Center / 3rd & Trinity,
+1,13,Davis at Rainey Street,26.56685036807994
+1,13,Guadalupe & 21st,10.59984615745864
+1,13,South Congress & Academy,26.997686097488945
+1,13,West & 6th St.,11.064336200719971
+1,14,17th & Guadalupe,12.659551450080647
+1,14,2nd & Congress,82.20133050780478
+1,14,5th & Bowie,64.95994896274081
+1,14,8th & Congress,24.687352183951166
+1,14,City Hall / Lavaca & 2nd,45.23275523663458
+1,14,Convention Center / 3rd & Trinity,
+1,14,Davis at Rainey Street,27.827607603728676
+1,14,Guadalupe & 21st,19.00093936972697
+1,14,South Congress & Academy,25.865447606635463
+1,14,West & 6th St.,15.02708491978896
+1,15,17th & Guadalupe,14.91576999605823
+1,15,2nd & Congress,79.59477982975211
+1,15,5th & Bowie,62.5995993957322
+1,15,8th & Congress,35.51523983260512
+1,15,City Hall / Lavaca & 2nd,64.86165182565716
+1,15,Convention Center / 3rd & Trinity,
+1,15,Davis at Rainey Street,30.610374294008796
+1,15,Guadalupe & 21st,18.108640035435922
+1,15,South Congress & Academy,52.19956596354526
+1,15,West & 6th St.,21.679388841070654
+1,16,17th & Guadalupe,28.300158556142353
+1,16,2nd & Congress,119.0182230024723
+1,16,5th & Bowie,86.56355203741934
+1,16,8th & Congress,44.036505082393504
+1,16,City Hall / Lavaca & 2nd,75.2859380566479
+1,16,Convention Center / 3rd & Trinity,
+1,16,Davis at Rainey Street,39.1287889312593
+1,16,Guadalupe & 21st,10.664351539354845
+1,16,South Congress & Academy,56.16093417392275
+1,16,West & 6th St.,35.08331672163071
+1,17,17th & Guadalupe,19.168617618829114
+1,17,2nd & Congress,117.2570499719808
+1,17,5th & Bowie,53.22655166305334
+1,17,8th & Congress,37.548623047901216
+1,17,City Hall / Lavaca & 2nd,74.41125848640584
+1,17,Convention Center / 3rd & Trinity,
+1,17,Davis at Rainey Street,38.45069656301573
+1,17,Guadalupe & 21st,12.230534458675708
+1,17,South Congress & Academy,53.92152808800026
+1,17,West & 6th St.,19.131311759340957
+1,18,17th & Guadalupe,13.955908042132181
+1,18,2nd & Congress,95.73552833362082
+1,18,5th & Bowie,66.93936863796628
+1,18,8th & Congress,48.18716893555577
+1,18,City Hall / Lavaca & 2nd,50.18265952107589
+1,18,Convention Center / 3rd & Trinity,
+1,18,Davis at Rainey Street,45.03244856942598
+1,18,Guadalupe & 21st,10.665262475424079
+1,18,South Congress & Academy,44.54294086615989
+1,18,West & 6th St.,24.837307122485434
+1,19,17th & Guadalupe,15.68590608885606
+1,19,2nd & Congress,66.16453196468936
+1,19,5th & Bowie,48.642627857585374
+1,19,8th & Congress,31.17263352842298
+1,19,City Hall / Lavaca & 2nd,46.95294055313586
+1,19,Convention Center / 3rd & Trinity,
+1,19,Davis at Rainey Street,33.65856153256645
+1,19,Guadalupe & 21st,16.361936454438606
+1,19,South Congress & Academy,30.064375840736883
+1,19,West & 6th St.,26.2467639704922
+1,20,17th & Guadalupe,21.437158897460858
+1,20,2nd & Congress,78.59492838406777
+1,20,5th & Bowie,51.19777412506887
+1,20,8th & Congress,30.932245390609314
+1,20,City Hall / Lavaca & 2nd,43.401012718407664
+1,20,Convention Center / 3rd & Trinity,
+1,20,Davis at Rainey Street,23.793978424991117
+1,20,Guadalupe & 21st,18.172027882392687
+1,20,South Congress & Academy,30.037862799905977
+1,20,West & 6th St.,22.655009147574805
+1,21,17th & Guadalupe,16.783422054157935
+1,21,2nd & Congress,84.65218100067042
+1,21,5th & Bowie,55.170101765694774
+1,21,8th & Congress,25.34561862758335
+1,21,City Hall / Lavaca & 2nd,43.864375049001836
+1,21,Convention Center / 3rd & Trinity,
+1,21,Davis at Rainey Street,24.591975503067207
+1,21,Guadalupe & 21st,11.975488569790228
+1,21,South Congress & Academy,37.452177148847994
+1,21,West & 6th St.,19.624490052782505
+1,22,17th & Guadalupe,18.096658048954765
+1,22,2nd & Congress,99.34145976906908
+1,22,5th & Bowie,59.70300236622375
+1,22,8th & Congress,22.192371330482356
+1,22,City Hall / Lavaca & 2nd,40.7880871591398
+1,22,Convention Center / 3rd & Trinity,
+1,22,Davis at Rainey Street,50.771671035536656
+1,22,Guadalupe & 21st,14.917979709953233
+1,22,South Congress & Academy,39.723751078958614
+1,22,West & 6th St.,15.486939798064094
+1,23,17th & Guadalupe,22.297774901474348
+1,23,2nd & Congress,86.59436523216164
+1,23,5th & Bowie,75.93349007985593
+1,23,8th & Congress,30.3371779885872
+1,23,City Hall / Lavaca & 2nd,53.789415215422466
+1,23,Convention Center / 3rd & Trinity,
+1,23,Davis at Rainey Street,25.952709225932733
+1,23,Guadalupe & 21st,9.263401298631099
+1,23,South Congress & Academy,42.71696402559406
+1,23,West & 6th St.,21.153930659297878
+1,24,17th & Guadalupe,21.92651694236796
+1,24,2nd & Congress,110.15166350435766
+1,24,5th & Bowie,64.25711054696256
+1,24,8th & Congress,26.787936976957244
+1,24,City Hall / Lavaca & 2nd,63.42848802655871
+1,24,Convention Center / 3rd & Trinity,
+1,24,Davis at Rainey Street,52.24932395837065
+1,24,Guadalupe & 21st,14.331730271921842
+1,24,South Congress & Academy,41.237558170362355
+1,24,West & 6th St.,19.425751626025935
+1,25,17th & Guadalupe,15.988321929688174
+1,25,2nd & Congress,101.41954321132914
+1,25,5th & Bowie,58.090350656046006
+1,25,8th & Congress,20.137225313839075
+1,25,City Hall / Lavaca & 2nd,53.21958564982626
+1,25,Convention Center / 3rd & Trinity,
+1,25,Davis at Rainey Street,21.977657074005876
+1,25,Guadalupe & 21st,9.342115785288904
+1,25,South Congress & Academy,39.211349806083774
+1,25,West & 6th St.,22.36411233557912
+1,26,17th & Guadalupe,19.095818956744377
+1,26,2nd & Congress,41.94916852424051
+1,26,5th & Bowie,43.862617157266016
+1,26,8th & Congress,21.135102066229443
+1,26,City Hall / Lavaca & 2nd,51.419477076811326
+1,26,Convention Center / 3rd & Trinity,
+1,26,Davis at Rainey Street,18.787158966392386
+1,26,Guadalupe & 21st,8.618913209619965
+1,26,South Congress & Academy,31.822457570589407
+1,26,West & 6th St.,16.559612040630434
+1,27,17th & Guadalupe,14.424663395349468
+1,27,2nd & Congress,65.53665374901163
+1,27,5th & Bowie,52.0017293163634
+1,27,8th & Congress,17.07052508781758
+1,27,City Hall / Lavaca & 2nd,60.742534976819584
+1,27,Convention Center / 3rd & Trinity,
+1,27,Davis at Rainey Street,26.072020676960143
+1,27,Guadalupe & 21st,14.616485741146356
+1,27,South Congress & Academy,23.783181824518458
+1,27,West & 6th St.,19.52063447484167
+1,28,17th & Guadalupe,20.662807977315925
+1,28,2nd & Congress,81.10432171748629
+1,28,5th & Bowie,54.56393482515268
+1,28,8th & Congress,13.937032818992403
+1,28,City Hall / Lavaca & 2nd,59.41584741723751
+1,28,Convention Center / 3rd & Trinity,
+1,28,Davis at Rainey Street,29.865837317658354
+1,28,Guadalupe & 21st,12.236515015228894
+1,28,South Congress & Academy,29.512681848113928
+1,28,West & 6th St.,26.681133059022798
+1,29,17th & Guadalupe,17.242158172809482
+1,29,2nd & Congress,81.8660626557212
+1,29,5th & Bowie,63.319932420351435
+1,29,8th & Congress,38.72573148069356
+1,29,City Hall / Lavaca & 2nd,55.87160307816438
+1,29,Convention Center / 3rd & Trinity,
+1,29,Davis at Rainey Street,27.110405411223606
+1,29,Guadalupe & 21st,11.830683667051078
+1,29,South Congress & Academy,36.87401529928943
+1,29,West & 6th St.,26.031670089205154
+1,30,17th & Guadalupe,27.02375202597083
+1,30,2nd & Congress,80.80221396653153
+1,30,5th & Bowie,42.43683717366815
+1,30,8th & Congress,21.470827573876193
+1,30,City Hall / Lavaca & 2nd,55.70982231327242
+1,30,Convention Center / 3rd & Trinity,
+1,30,Davis at Rainey Street,25.362470879394287
+1,30,Guadalupe & 21st,11.993073902558155
+1,30,South Congress & Academy,24.74643042849679
+1,30,West & 6th St.,18.704794872625016
+1,31,17th & Guadalupe,15.041966519859377
+1,31,2nd & Congress,63.51040367564912
+1,31,5th & Bowie,43.07431243044087
+1,31,8th & Congress,15.749023876346648
+1,31,City Hall / Lavaca & 2nd,35.718186849174806
+1,31,Convention Center / 3rd & Trinity,
+1,31,Davis at Rainey Street,21.022938002471342
+1,31,Guadalupe & 21st,7.758681219610586
+1,31,South Congress & Academy,33.97132231039359
+1,31,West & 6th St.,18.621315580705296
+3,1,17th & Guadalupe,11.959162285055628
+3,1,2nd & Congress,54.320857539978434
+3,1,5th & Bowie,42.555729901695194
+3,1,8th & Congress,13.778548001376894
+3,1,City Hall / Lavaca & 2nd,34.6432418306709
+3,1,Convention Center / 3rd & Trinity,
+3,1,Davis at Rainey Street,17.345924993684598
+3,1,Guadalupe & 21st,7.866887734143285
+3,1,South Congress & Academy,27.373822617702793
+3,1,West & 6th St.,15.706278361480873
+3,2,17th & Guadalupe,14.559826424915222
+3,2,2nd & Congress,71.97422241245843
+3,2,5th & Bowie,40.92965633989669
+3,2,8th & Congress,17.09612126578072
+3,2,City Hall / Lavaca & 2nd,46.18962786450903
+3,2,Convention Center / 3rd & Trinity,
+3,2,Davis at Rainey Street,16.237473138195128
+3,2,Guadalupe & 21st,13.069302325599748
+3,2,South Congress & Academy,19.01845186392385
+3,2,West & 6th St.,20.302333876839754
+3,3,17th & Guadalupe,11.587114965699483
+3,3,2nd & Congress,78.9440082599257
+3,3,5th & Bowie,54.390895856617675
+3,3,8th & Congress,21.49230030927498
+3,3,City Hall / Lavaca & 2nd,33.344638694358245
+3,3,Convention Center / 3rd & Trinity,
+3,3,Davis at Rainey Street,21.19682484294083
+3,3,Guadalupe & 21st,11.715312272060169
+3,3,South Congress & Academy,31.095206142117778
+3,3,West & 6th St.,24.033621708584405
+3,4,17th & Guadalupe,13.714745999660064
+3,4,2nd & Congress,72.01451593501314
+3,4,5th & Bowie,47.96639954254778
+3,4,8th & Congress,25.29128457648394
+3,4,City Hall / Lavaca & 2nd,36.36991421315413
+3,4,Convention Center / 3rd & Trinity,
+3,4,Davis at Rainey Street,21.473593118758423
+3,4,Guadalupe & 21st,10.792171384827386
+3,4,South Congress & Academy,47.5368677157003
+3,4,West & 6th St.,26.54571691312888
+3,5,17th & Guadalupe,13.30221701892453
+3,5,2nd & Congress,89.51352777739854
+3,5,5th & Bowie,43.74725437954477
+3,5,8th & Congress,24.781990210152795
+3,5,City Hall / Lavaca & 2nd,39.86118011424744
+3,5,Convention Center / 3rd & Trinity,
+3,5,Davis at Rainey Street,27.615900401518694
+3,5,Guadalupe & 21st,12.601323235375395
+3,5,South Congress & Academy,47.52435086553634
+3,5,West & 6th St.,17.45790808743258
+3,6,17th & Guadalupe,12.572099684685442
+3,6,2nd & Congress,51.19482691654649
+3,6,5th & Bowie,49.45731743341564
+3,6,8th & Congress,23.34798381404137
+3,6,City Hall / Lavaca & 2nd,41.00483742413751
+3,6,Convention Center / 3rd & Trinity,
+3,6,Davis at Rainey Street,17.212138368933523
+3,6,Guadalupe & 21st,18.717480551431432
+3,6,South Congress & Academy,36.902058087625626
+3,6,West & 6th St.,25.508792323982846
+3,7,17th & Guadalupe,12.952637257489757
+3,7,2nd & Congress,48.19030344751922
+3,7,5th & Bowie,47.469417097825804
+3,7,8th & Congress,32.11522853580238
+3,7,City Hall / Lavaca & 2nd,58.884950637933834
+3,7,Convention Center / 3rd & Trinity,
+3,7,Davis at Rainey Street,13.893442753950003
+3,7,Guadalupe & 21st,17.927339013641
+3,7,South Congress & Academy,83.31502471426312
+3,7,West & 6th St.,34.24486520642617
+3,8,17th & Guadalupe,23.70969565456677
+3,8,2nd & Congress,109.94502142600443
+3,8,5th & Bowie,76.20094270505174
+3,8,8th & Congress,46.69330687216473
+3,8,City Hall / Lavaca & 2nd,65.38314885414806
+3,8,Convention Center / 3rd & Trinity,
+3,8,Davis at Rainey Street,35.252429422935265
+3,8,Guadalupe & 21st,11.73089018318941
+3,8,South Congress & Academy,59.07932144795314
+3,8,West & 6th St.,42.14692516730106
+3,9,17th & Guadalupe,19.5204658196739
+3,9,2nd & Congress,53.551299566916505
+3,9,5th & Bowie,45.290410401134366
+3,9,8th & Congress,33.99218938487517
+3,9,City Hall / Lavaca & 2nd,66.87015154205405
+3,9,Convention Center / 3rd & Trinity,
+3,9,Davis at Rainey Street,33.70430803200835
+3,9,Guadalupe & 21st,10.428314315909775
+3,9,South Congress & Academy,65.78782799191946
+3,9,West & 6th St.,20.15281898565021
+3,10,17th & Guadalupe,13.171668766862812
+3,10,2nd & Congress,66.7649512242337
+3,10,5th & Bowie,48.85383209519285
+3,10,8th & Congress,43.99239674438537
+3,10,City Hall / Lavaca & 2nd,40.74118919824482
+3,10,Convention Center / 3rd & Trinity,
+3,10,Davis at Rainey Street,61.53750419355375
+3,10,Guadalupe & 21st,11.079407188036408
+3,10,South Congress & Academy,46.47894054716473
+3,10,West & 6th St.,31.271134258387434
+3,11,17th & Guadalupe,11.473176635268143
+3,11,2nd & Congress,110.74381830692617
+3,11,5th & Bowie,38.36842706164148
+3,11,8th & Congress,26.392712049309964
+3,11,City Hall / Lavaca & 2nd,36.97614722437919
+3,11,Convention Center / 3rd & Trinity,
+3,11,Davis at Rainey Street,35.47977259101948
+3,11,Guadalupe & 21st,17.650778323228927
+3,11,South Congress & Academy,84.5788948693192
+3,11,West & 6th St.,22.79909787669361
+3,12,17th & Guadalupe,18.92188932977254
+3,12,2nd & Congress,39.20135581009664
+3,12,5th & Bowie,35.34865141859055
+3,12,8th & Congress,22.718602467448502
+3,12,City Hall / Lavaca & 2nd,32.82702481125162
+3,12,Convention Center / 3rd & Trinity,
+3,12,Davis at Rainey Street,13.117550546950696
+3,12,Guadalupe & 21st,14.59406918237303
+3,12,South Congress & Academy,65.41345654528718
+3,12,West & 6th St.,48.59225547786326
+3,13,17th & Guadalupe,15.093788248778111
+3,13,2nd & Congress,51.66844595512899
+3,13,5th & Bowie,44.665585003352504
+3,13,8th & Congress,21.840297920360364
+3,13,City Hall / Lavaca & 2nd,37.02918186795813
+3,13,Convention Center / 3rd & Trinity,
+3,13,Davis at Rainey Street,15.684750348431605
+3,13,Guadalupe & 21st,15.97322356710074
+3,13,South Congress & Academy,27.700977265042468
+3,13,West & 6th St.,24.182218377974273
+3,14,17th & Guadalupe,16.690266405470815
+3,14,2nd & Congress,68.70148243525287
+3,14,5th & Bowie,44.41990150169283
+3,14,8th & Congress,19.861450562105652
+3,14,City Hall / Lavaca & 2nd,35.3358836820337
+3,14,Convention Center / 3rd & Trinity,
+3,14,Davis at Rainey Street,25.70040904920555
+3,14,Guadalupe & 21st,15.108269974670497
+3,14,South Congress & Academy,33.39374391123185
+3,14,West & 6th St.,25.65810053623511
+3,15,17th & Guadalupe,19.197302771136847
+3,15,2nd & Congress,57.65615071032287
+3,15,5th & Bowie,60.45273232933682
+3,15,8th & Congress,27.116063006363422
+3,15,City Hall / Lavaca & 2nd,46.72843556577492
+3,15,Convention Center / 3rd & Trinity,
+3,15,Davis at Rainey Street,21.964040303934674
+3,15,Guadalupe & 21st,9.865792606095184
+3,15,South Congress & Academy,51.48356887063252
+3,15,West & 6th St.,24.67318651780796
+3,16,17th & Guadalupe,19.840821860675298
+3,16,2nd & Congress,87.42512914949845
+3,16,5th & Bowie,54.651818744359836
+3,16,8th & Congress,23.436031509550798
+3,16,City Hall / Lavaca & 2nd,56.70547890576508
+3,16,Convention Center / 3rd & Trinity,
+3,16,Davis at Rainey Street,39.81482924778312
+3,16,Guadalupe & 21st,16.188648727930435
+3,16,South Congress & Academy,38.11545867876285
+3,16,West & 6th St.,21.395957681079185
+3,17,17th & Guadalupe,18.960288813483352
+3,17,2nd & Congress,72.1284769826351
+3,17,5th & Bowie,55.64630486054401
+3,17,8th & Congress,17.921725090924724
+3,17,City Hall / Lavaca & 2nd,48.987758477846825
+3,17,Convention Center / 3rd & Trinity,
+3,17,Davis at Rainey Street,29.912091744215452
+3,17,Guadalupe & 21st,10.525207788616047
+3,17,South Congress & Academy,42.867323909828045
+3,17,West & 6th St.,32.17327687040759
+3,18,17th & Guadalupe,18.214595214876653
+3,18,2nd & Congress,51.89634386954642
+3,18,5th & Bowie,49.34130297576953
+3,18,8th & Congress,19.76455232149765
+3,18,City Hall / Lavaca & 2nd,49.56647378850092
+3,18,Convention Center / 3rd & Trinity,
+3,18,Davis at Rainey Street,48.5448336151158
+3,18,Guadalupe & 21st,12.422758244813188
+3,18,South Congress & Academy,53.69343236721644
+3,18,West & 6th St.,28.060397720339857
+3,19,17th & Guadalupe,17.58598819806575
+3,19,2nd & Congress,68.3660882367936
+3,19,5th & Bowie,51.98012018182983
+3,19,8th & Congress,16.967469399203143
+3,19,City Hall / Lavaca & 2nd,58.53514093154823
+3,19,Convention Center / 3rd & Trinity,
+3,19,Davis at Rainey Street,36.49218838456383
+3,19,Guadalupe & 21st,19.86444802797314
+3,19,South Congress & Academy,46.751804202691126
+3,19,West & 6th St.,27.137928484235278
+3,20,17th & Guadalupe,19.157924144912023
+3,20,2nd & Congress,72.47377918751178
+3,20,5th & Bowie,48.55125662631969
+3,20,8th & Congress,13.978231998084889
+3,20,City Hall / Lavaca & 2nd,59.739948540408896
+3,20,Convention Center / 3rd & Trinity,
+3,20,Davis at Rainey Street,23.06902609472018
+3,20,Guadalupe & 21st,15.66328735922026
+3,20,South Congress & Academy,58.18808417596785
+3,20,West & 6th St.,31.540967707839965
+3,21,17th & Guadalupe,17.533761506463584
+3,21,2nd & Congress,49.909269237331216
+3,21,5th & Bowie,49.16405083654281
+3,21,8th & Congress,37.01131101362438
+3,21,City Hall / Lavaca & 2nd,51.31224680107428
+3,21,Convention Center / 3rd & Trinity,
+3,21,Davis at Rainey Street,29.531967077608922
+3,21,Guadalupe & 21st,12.06614218042652
+3,21,South Congress & Academy,39.947792708110086
+3,21,West & 6th St.,33.14477568855177
+3,22,17th & Guadalupe,23.97748597214454
+3,22,2nd & Congress,63.3814489869082
+3,22,5th & Bowie,36.994696024384474
+3,22,8th & Congress,20.54796335259365
+3,22,City Hall / Lavaca & 2nd,53.716579406016315
+3,22,Convention Center / 3rd & Trinity,
+3,22,Davis at Rainey Street,22.096536445244414
+3,22,Guadalupe & 21st,14.497876910283729
+3,22,South Congress & Academy,30.129017167709225
+3,22,West & 6th St.,29.180459854249985
+3,23,17th & Guadalupe,13.92338009705449
+3,23,2nd & Congress,61.06573167847229
+3,23,5th & Bowie,39.24816692118992
+3,23,8th & Congress,15.49889334286412
+3,23,City Hall / Lavaca & 2nd,34.04454382899238
+3,23,Convention Center / 3rd & Trinity,
+3,23,Davis at Rainey Street,34.85502082227198
+3,23,Guadalupe & 21st,8.718407463633987
+3,23,South Congress & Academy,43.3076357509815
+3,23,West & 6th St.,24.679869303730698
+3,24,17th & Guadalupe,22.877532267978513
+3,24,2nd & Congress,70.50524609558416
+3,24,5th & Bowie,44.75095245850255
+3,24,8th & Congress,24.005679147896792
+3,24,City Hall / Lavaca & 2nd,38.073927835765346
+3,24,Convention Center / 3rd & Trinity,
+3,24,Davis at Rainey Street,44.437514943820936
+3,24,Guadalupe & 21st,9.653828029930246
+3,24,South Congress & Academy,38.74137807584544
+3,24,West & 6th St.,15.979539858514883
+3,25,17th & Guadalupe,11.250819362362524
+3,25,2nd & Congress,48.834868461775514
+3,25,5th & Bowie,32.82660031650693
+3,25,8th & Congress,15.753071017387857
+3,25,City Hall / Lavaca & 2nd,32.773982457381585
+3,25,Convention Center / 3rd & Trinity,
+3,25,Davis at Rainey Street,23.037095505374992
+3,25,Guadalupe & 21st,13.435365016185603
+3,25,South Congress & Academy,34.08267143058265
+3,25,West & 6th St.,15.185096641054992
+3,26,17th & Guadalupe,12.859156655137987
+3,26,2nd & Congress,42.03972005065683
+3,26,5th & Bowie,45.39246060034506
+3,26,8th & Congress,17.36624504639022
+3,26,City Hall / Lavaca & 2nd,60.22574871982116
+3,26,Convention Center / 3rd & Trinity,
+3,26,Davis at Rainey Street,28.641884694620224
+3,26,Guadalupe & 21st,11.8164117421435
+3,26,South Congress & Academy,52.73700878941539
+3,26,West & 6th St.,22.667346805420333
+3,27,17th & Guadalupe,15.077221602558568
+3,27,2nd & Congress,70.72153121148976
+3,27,5th & Bowie,47.84807921827767
+3,27,8th & Congress,17.269687066313583
+3,27,City Hall / Lavaca & 2nd,49.541931051054206
+3,27,Convention Center / 3rd & Trinity,
+3,27,Davis at Rainey Street,16.387168621422315
+3,27,Guadalupe & 21st,12.540777961188516
+3,27,South Congress & Academy,46.470779723936445
+3,27,West & 6th St.,26.940697669788783
+3,28,17th & Guadalupe,14.585523409309632
+3,28,2nd & Congress,52.35739929089616
+3,28,5th & Bowie,35.937484477629916
+3,28,8th & Congress,15.437871050870198
+3,28,City Hall / Lavaca & 2nd,33.90750559391421
+3,28,Convention Center / 3rd & Trinity,
+3,28,Davis at Rainey Street,12.040925601464453
+3,28,Guadalupe & 21st,16.121900593107533
+3,28,South Congress & Academy,61.82990054587292
+3,28,West & 6th St.,16.651957696402786
+3,29,17th & Guadalupe,14.333553975722392
+3,29,2nd & Congress,33.953553182313215
+3,29,5th & Bowie,32.528779434825715
+3,29,8th & Congress,20.69180674288114
+3,29,City Hall / Lavaca & 2nd,44.091500238320755
+3,29,Convention Center / 3rd & Trinity,
+3,29,Davis at Rainey Street,20.64770735027026
+3,29,Guadalupe & 21st,11.396567036371346
+3,29,South Congress & Academy,43.761533836416945
+3,29,West & 6th St.,17.085636182697094
+3,30,17th & Guadalupe,15.21581481518691
+3,30,2nd & Congress,66.57151762548769
+3,30,5th & Bowie,51.16245267485871
+3,30,8th & Congress,18.31127357441415
+3,30,City Hall / Lavaca & 2nd,49.6390980381822
+3,30,Convention Center / 3rd & Trinity,
+3,30,Davis at Rainey Street,17.320958089231354
+3,30,Guadalupe & 21st,9.17931195287994
+3,30,South Congress & Academy,28.61052957822283
+3,30,West & 6th St.,17.689243974941935
+3,31,17th & Guadalupe,18.591100805490086
+3,31,2nd & Congress,66.77761733354416
+3,31,5th & Bowie,47.75749287103933
+3,31,8th & Congress,19.83621744542765
+3,31,City Hall / Lavaca & 2nd,49.33355307407697
+3,31,Convention Center / 3rd & Trinity,
+3,31,Davis at Rainey Street,32.07484415590143
+3,31,Guadalupe & 21st,12.14875024265464
+3,31,South Congress & Academy,62.36279031203182
+3,31,West & 6th St.,24.961865110607178
+7,1,17th & Guadalupe,18.31607574535965
+7,1,2nd & Congress,70.75084615887666
+7,1,5th & Bowie,52.04028772768319
+7,1,8th & Congress,15.910988445685392
+7,1,City Hall / Lavaca & 2nd,55.459845721863445
+7,1,Convention Center / 3rd & Trinity,
+7,1,Davis at Rainey Street,42.56968487133328
+7,1,Guadalupe & 21st,22.643327979194286
+7,1,South Congress & Academy,69.90896825375357
+7,1,West & 6th St.,32.45710264100048
+7,2,17th & Guadalupe,21.17331831005936
+7,2,2nd & Congress,84.5346588686139
+7,2,5th & Bowie,51.46640596722145
+7,2,8th & Congress,13.285209105006071
+7,2,City Hall / Lavaca & 2nd,57.95266414567858
+7,2,Convention Center / 3rd & Trinity,
+7,2,Davis at Rainey Street,35.379923722507215
+7,2,Guadalupe & 21st,18.107110480358404
+7,2,South Congress & Academy,83.07808411769076
+7,2,West & 6th St.,39.407109720442506
+7,3,17th & Guadalupe,19.013026467337887
+7,3,2nd & Congress,64.85891757079153
+7,3,5th & Bowie,54.09676164980392
+7,3,8th & Congress,35.193860876964386
+7,3,City Hall / Lavaca & 2nd,50.76489585824178
+7,3,Convention Center / 3rd & Trinity,
+7,3,Davis at Rainey Street,37.228961202742504
+7,3,Guadalupe & 21st,14.50099316650275
+7,3,South Congress & Academy,70.29587139926528
+7,3,West & 6th St.,40.11191844812957
+7,4,17th & Guadalupe,26.7065770495745
+7,4,2nd & Congress,75.73623594318558
+7,4,5th & Bowie,37.27641647659006
+7,4,8th & Congress,19.402639710191558
+7,4,City Hall / Lavaca & 2nd,51.89822309264229
+7,4,Convention Center / 3rd & Trinity,
+7,4,Davis at Rainey Street,29.25289510936104
+7,4,Guadalupe & 21st,16.834390096610004
+7,4,South Congress & Academy,49.623233747006545
+7,4,West & 6th St.,33.121931395342386
+7,5,17th & Guadalupe,15.357285947428352
+7,5,2nd & Congress,68.4790318161961
+7,5,5th & Bowie,40.26176888527766
+7,5,8th & Congress,14.730576697891456
+7,5,City Hall / Lavaca & 2nd,33.11337554519757
+7,5,Convention Center / 3rd & Trinity,
+7,5,Davis at Rainey Street,36.61377746887781
+7,5,Guadalupe & 21st,10.276383085936281
+7,5,South Congress & Academy,74.05991513864093
+7,5,West & 6th St.,29.560349198111904
+7,6,17th & Guadalupe,25.14376946481771
+7,6,2nd & Congress,80.49361515898829
+7,6,5th & Bowie,42.62692423299835
+7,6,8th & Congress,24.003155584975815
+7,6,City Hall / Lavaca & 2nd,35.241167129894045
+7,6,Convention Center / 3rd & Trinity,
+7,6,Davis at Rainey Street,47.81911046100353
+7,6,Guadalupe & 21st,11.36575887919985
+7,6,South Congress & Academy,58.08706245525522
+7,6,West & 6th St.,19.833891829153753
+7,7,17th & Guadalupe,12.62861005328571
+7,7,2nd & Congress,47.549469568264165
+7,7,5th & Bowie,33.22166473420465
+7,7,8th & Congress,15.429934484941413
+7,7,City Hall / Lavaca & 2nd,30.391505646978274
+7,7,Convention Center / 3rd & Trinity,
+7,7,Davis at Rainey Street,29.171871098420592
+7,7,Guadalupe & 21st,15.377458897080567
+7,7,South Congress & Academy,49.54233216474771
+7,7,West & 6th St.,18.883198024729136
+7,8,17th & Guadalupe,14.01533237798984
+7,8,2nd & Congress,66.58041360490768
+7,8,5th & Bowie,47.65674125968892
+7,8,8th & Congress,17.345138088752158
+7,8,City Hall / Lavaca & 2nd,58.67113154742633
+7,8,Convention Center / 3rd & Trinity,
+7,8,Davis at Rainey Street,40.244733092978805
+7,8,Guadalupe & 21st,15.057884983671373
+7,8,South Congress & Academy,84.05070617607947
+7,8,West & 6th St.,30.173225373086606
+7,9,17th & Guadalupe,16.522753684992463
+7,9,2nd & Congress,86.58910667935892
+7,9,5th & Bowie,46.32253353490776
+7,9,8th & Congress,16.113241058899064
+7,9,City Hall / Lavaca & 2nd,45.38421417395418
+7,9,Convention Center / 3rd & Trinity,
+7,9,Davis at Rainey Street,26.481827096979533
+7,9,Guadalupe & 21st,14.517932397675189
+7,9,South Congress & Academy,69.69273587316448
+7,9,West & 6th St.,30.936670725136338
+7,10,17th & Guadalupe,16.376152333491092
+7,10,2nd & Congress,49.86159617890569
+7,10,5th & Bowie,34.21656601581534
+7,10,8th & Congress,14.366540707833124
+7,10,City Hall / Lavaca & 2nd,30.300672304360315
+7,10,Convention Center / 3rd & Trinity,
+7,10,Davis at Rainey Street,20.03491470617268
+7,10,Guadalupe & 21st,18.638220523787936
+7,10,South Congress & Academy,81.96805579951102
+7,10,West & 6th St.,18.438844920445977
+7,11,17th & Guadalupe,15.450602331879466
+7,11,2nd & Congress,44.66366240377911
+7,11,5th & Bowie,36.412408585824934
+7,11,8th & Congress,19.48300495843257
+7,11,City Hall / Lavaca & 2nd,43.50223574065654
+7,11,Convention Center / 3rd & Trinity,
+7,11,Davis at Rainey Street,28.469667420352923
+7,11,Guadalupe & 21st,13.56947447640639
+7,11,South Congress & Academy,65.04671523673082
+7,11,West & 6th St.,19.84802045986046
+7,12,17th & Guadalupe,16.835209309403627
+7,12,2nd & Congress,89.02334309330408
+7,12,5th & Bowie,55.73662103775356
+7,12,8th & Congress,17.699941214923843
+7,12,City Hall / Lavaca & 2nd,50.00614985694304
+7,12,Convention Center / 3rd & Trinity,
+7,12,Davis at Rainey Street,32.26889955333404
+7,12,Guadalupe & 21st,11.57026934459729
+7,12,South Congress & Academy,51.67202000086341
+7,12,West & 6th St.,22.33470711182803
+7,13,17th & Guadalupe,19.407804426765427
+7,13,2nd & Congress,86.82827700838574
+7,13,5th & Bowie,51.19593182450806
+7,13,8th & Congress,19.348563511385343
+7,13,City Hall / Lavaca & 2nd,49.06851737401427
+7,13,Convention Center / 3rd & Trinity,
+7,13,Davis at Rainey Street,45.67665450566687
+7,13,Guadalupe & 21st,15.380022464981552
+7,13,South Congress & Academy,110.89147272636254
+7,13,West & 6th St.,30.515357376980873
+7,14,17th & Guadalupe,16.58889211151829
+7,14,2nd & Congress,75.36372504168732
+7,14,5th & Bowie,45.70751855741107
+7,14,8th & Congress,16.803278849703272
+7,14,City Hall / Lavaca & 2nd,37.16458905850641
+7,14,Convention Center / 3rd & Trinity,
+7,14,Davis at Rainey Street,26.421962813789374
+7,14,Guadalupe & 21st,16.50664846596838
+7,14,South Congress & Academy,88.31647968423253
+7,14,West & 6th St.,29.80445389451508
+7,15,17th & Guadalupe,14.298075341526234
+7,15,2nd & Congress,101.78602432831666
+7,15,5th & Bowie,47.279215097417925
+7,15,8th & Congress,22.165280199325426
+7,15,City Hall / Lavaca & 2nd,43.96857997932552
+7,15,Convention Center / 3rd & Trinity,
+7,15,Davis at Rainey Street,31.187825868886595
+7,15,Guadalupe & 21st,16.673543290284574
+7,15,South Congress & Academy,68.21550623848866
+7,15,West & 6th St.,41.0596069427205
+7,16,17th & Guadalupe,23.728684097558638
+7,16,2nd & Congress,92.87158180938012
+7,16,5th & Bowie,36.613096355635925
+7,16,8th & Congress,20.773914517250915
+7,16,City Hall / Lavaca & 2nd,36.16332135596876
+7,16,Convention Center / 3rd & Trinity,
+7,16,Davis at Rainey Street,37.221391271114655
+7,16,Guadalupe & 21st,9.195055086797836
+7,16,South Congress & Academy,61.26128530352353
+7,16,West & 6th St.,28.27977544075706
+7,17,17th & Guadalupe,14.532338422452549
+7,17,2nd & Congress,63.91685344125076
+7,17,5th & Bowie,55.67955735383705
+7,17,8th & Congress,18.9547214150599
+7,17,City Hall / Lavaca & 2nd,33.69296057960405
+7,17,Convention Center / 3rd & Trinity,
+7,17,Davis at Rainey Street,30.10250076482986
+7,17,Guadalupe & 21st,25.926846257458944
+7,17,South Congress & Academy,53.80389328085778
+7,17,West & 6th St.,37.81166140318423
+7,18,17th & Guadalupe,25.471661033907857
+7,18,2nd & Congress,103.34413430246903
+7,18,5th & Bowie,56.14315197286875
+7,18,8th & Congress,16.70414264395281
+7,18,City Hall / Lavaca & 2nd,50.143561162148195
+7,18,Convention Center / 3rd & Trinity,
+7,18,Davis at Rainey Street,34.79684848184121
+7,18,Guadalupe & 21st,19.702253669496894
+7,18,South Congress & Academy,96.66035801304935
+7,18,West & 6th St.,50.734545695989304
+7,19,17th & Guadalupe,18.115034628403645
+7,19,2nd & Congress,104.4853978076219
+7,19,5th & Bowie,56.81492622780651
+7,19,8th & Congress,18.13593841125195
+7,19,City Hall / Lavaca & 2nd,63.99290778376191
+7,19,Convention Center / 3rd & Trinity,
+7,19,Davis at Rainey Street,55.16853400688141
+7,19,Guadalupe & 21st,26.16100197105697
+7,19,South Congress & Academy,75.94699618906525
+7,19,West & 6th St.,37.95152494292898
+7,20,17th & Guadalupe,26.034492280229916
+7,20,2nd & Congress,84.67576486270067
+7,20,5th & Bowie,43.7454929142326
+7,20,8th & Congress,22.29884068255313
+7,20,City Hall / Lavaca & 2nd,67.44685856019223
+7,20,Convention Center / 3rd & Trinity,
+7,20,Davis at Rainey Street,31.478398079065254
+7,20,Guadalupe & 21st,12.328401722295624
+7,20,South Congress & Academy,65.95435214835257
+7,20,West & 6th St.,23.876193096813026
+7,21,17th & Guadalupe,11.234980104727597
+7,21,2nd & Congress,55.287506951802705
+7,21,5th & Bowie,26.160879059718553
+7,21,8th & Congress,15.381542658198493
+7,21,City Hall / Lavaca & 2nd,31.78828200960738
+7,21,Convention Center / 3rd & Trinity,
+7,21,Davis at Rainey Street,32.510818397434946
+7,21,Guadalupe & 21st,19.028173461862885
+7,21,South Congress & Academy,43.094169025215955
+7,21,West & 6th St.,23.33765393355067
+7,22,17th & Guadalupe,15.864469625805125
+7,22,2nd & Congress,52.458833353004955
+7,22,5th & Bowie,37.73505458258034
+7,22,8th & Congress,14.906234812761168
+7,22,City Hall / Lavaca & 2nd,24.467376614305163
+7,22,Convention Center / 3rd & Trinity,
+7,22,Davis at Rainey Street,45.10329694727224
+7,22,Guadalupe & 21st,15.801196480000627
+7,22,South Congress & Academy,50.85619205583027
+7,22,West & 6th St.,21.077891169543395
+7,23,17th & Guadalupe,23.238476380480073
+7,23,2nd & Congress,70.5054986125853
+7,23,5th & Bowie,44.75505343774114
+7,23,8th & Congress,27.690930834437903
+7,23,City Hall / Lavaca & 2nd,47.18917719033542
+7,23,Convention Center / 3rd & Trinity,
+7,23,Davis at Rainey Street,24.420012076667792
+7,23,Guadalupe & 21st,14.378831541815158
+7,23,South Congress & Academy,96.16405486025937
+7,23,West & 6th St.,44.61361354262299
+7,24,17th & Guadalupe,17.564414326841938
+7,24,2nd & Congress,71.03005952718279
+7,24,5th & Bowie,46.21042837719188
+7,24,8th & Congress,24.579070026139306
+7,24,City Hall / Lavaca & 2nd,37.578981432017784
+7,24,Convention Center / 3rd & Trinity,
+7,24,Davis at Rainey Street,39.606127703033415
+7,24,Guadalupe & 21st,15.229460527240908
+7,24,South Congress & Academy,60.66210288221117
+7,24,West & 6th St.,35.548945614543996
+7,25,17th & Guadalupe,11.416899552228633
+7,25,2nd & Congress,90.45814412220676
+7,25,5th & Bowie,71.28533629267258
+7,25,8th & Congress,28.415469880857746
+7,25,City Hall / Lavaca & 2nd,64.116788053259
+7,25,Convention Center / 3rd & Trinity,
+7,25,Davis at Rainey Street,28.701375062838306
+7,25,Guadalupe & 21st,22.81519518633326
+7,25,South Congress & Academy,70.4828569475052
+7,25,West & 6th St.,29.221738159264394
+7,26,17th & Guadalupe,11.550099391528546
+7,26,2nd & Congress,86.84852814730833
+7,26,5th & Bowie,43.53001695517509
+7,26,8th & Congress,20.541902217718608
+7,26,City Hall / Lavaca & 2nd,35.24411401241282
+7,26,Convention Center / 3rd & Trinity,
+7,26,Davis at Rainey Street,28.71476841807228
+7,26,Guadalupe & 21st,18.70986737429745
+7,26,South Congress & Academy,59.333230695541
+7,26,West & 6th St.,22.57781599563004
+7,27,17th & Guadalupe,12.927627256284014
+7,27,2nd & Congress,35.14984608197026
+7,27,5th & Bowie,36.91575476818981
+7,27,8th & Congress,14.896090419801531
+7,27,City Hall / Lavaca & 2nd,30.24154632967374
+7,27,Convention Center / 3rd & Trinity,
+7,27,Davis at Rainey Street,26.83922766995499
+7,27,Guadalupe & 21st,9.861493228452199
+7,27,South Congress & Academy,51.71356659010724
+7,27,West & 6th St.,24.986861260020227
+7,28,17th & Guadalupe,12.132678407986921
+7,28,2nd & Congress,55.04205330097385
+7,28,5th & Bowie,45.991526121407745
+7,28,8th & Congress,15.686589916077633
+7,28,City Hall / Lavaca & 2nd,36.239535538040364
+7,28,Convention Center / 3rd & Trinity,
+7,28,Davis at Rainey Street,34.867875170319365
+7,28,Guadalupe & 21st,10.9304733675957
+7,28,South Congress & Academy,62.36876156137415
+7,28,West & 6th St.,24.737751942757537
+7,29,17th & Guadalupe,13.820090535349586
+7,29,2nd & Congress,40.425371588193954
+7,29,5th & Bowie,36.904913255177824
+7,29,8th & Congress,17.17298884563508
+7,29,City Hall / Lavaca & 2nd,33.321008009233616
+7,29,Convention Center / 3rd & Trinity,
+7,29,Davis at Rainey Street,23.5288691480779
+7,29,Guadalupe & 21st,12.344207180577925
+7,29,South Congress & Academy,79.05091279160841
+7,29,West & 6th St.,19.02777916325117
+7,30,17th & Guadalupe,17.328434490686675
+7,30,2nd & Congress,53.71709260858135
+7,30,5th & Bowie,45.59014992200896
+7,30,8th & Congress,16.794797163241533
+7,30,City Hall / Lavaca & 2nd,42.82941436024034
+7,30,Convention Center / 3rd & Trinity,
+7,30,Davis at Rainey Street,29.816737023396154
+7,30,Guadalupe & 21st,19.026185675848385
+7,30,South Congress & Academy,94.57851602567158
+7,30,West & 6th St.,26.841410725590485
+7,31,17th & Guadalupe,12.811461687934123
+7,31,2nd & Congress,76.89867197425592
+7,31,5th & Bowie,38.611955348945195
+7,31,8th & Congress,18.34586940266958
+7,31,City Hall / Lavaca & 2nd,27.14890474643514
+7,31,Convention Center / 3rd & Trinity,
+7,31,Davis at Rainey Street,31.880411462240865
+7,31,Guadalupe & 21st,19.7127482331755
+7,31,South Congress & Academy,101.15767139107032
+7,31,West & 6th St.,29.22078482178909
+10,1,17th & Guadalupe,15.538525721976665
+10,1,2nd & Congress,73.38308833601164
+10,1,5th & Bowie,50.057356735637086
+10,1,8th & Congress,30.044208625802764
+10,1,City Hall / Lavaca & 2nd,55.05217514048089
+10,1,Convention Center / 3rd & Trinity,
+10,1,Davis at Rainey Street,32.58958463502642
+10,1,Guadalupe & 21st,24.944720119978683
+10,1,South Congress & Academy,188.22087295402267
+10,1,West & 6th St.,46.84306119292398
+10,2,17th & Guadalupe,28.8168783230473
+10,2,2nd & Congress,144.38324266710114
+10,2,5th & Bowie,78.00728556149349
+10,2,8th & Congress,40.92279097165331
+10,2,City Hall / Lavaca & 2nd,64.03794264346095
+10,2,Convention Center / 3rd & Trinity,
+10,2,Davis at Rainey Street,58.748546765925525
+10,2,Guadalupe & 21st,15.87266097856271
+10,2,South Congress & Academy,161.79455469042836
+10,2,West & 6th St.,62.10244626500964
+10,3,17th & Guadalupe,22.733890945704935
+10,3,2nd & Congress,101.17584624419975
+10,3,5th & Bowie,50.429948098589556
+10,3,8th & Congress,31.769928891214487
+10,3,City Hall / Lavaca & 2nd,66.24343666766005
+10,3,Convention Center / 3rd & Trinity,
+10,3,Davis at Rainey Street,61.25005744910445
+10,3,Guadalupe & 21st,15.022981880013102
+10,3,South Congress & Academy,175.73261591001543
+10,3,West & 6th St.,31.29437514651649
+10,4,17th & Guadalupe,15.618434993234336
+10,4,2nd & Congress,106.45154908548307
+10,4,5th & Bowie,63.98346963586093
+10,4,8th & Congress,41.49078533457678
+10,4,City Hall / Lavaca & 2nd,44.534192984602754
+10,4,Convention Center / 3rd & Trinity,
+10,4,Davis at Rainey Street,91.28976148089802
+10,4,Guadalupe & 21st,15.18915531771833
+10,4,South Congress & Academy,132.79739812647006
+10,4,West & 6th St.,45.98466882571453
+10,5,17th & Guadalupe,14.35014503789083
+10,5,2nd & Congress,116.18578266444473
+10,5,5th & Bowie,48.51910387134626
+10,5,8th & Congress,25.525496463373095
+10,5,City Hall / Lavaca & 2nd,42.46282602500764
+10,5,Convention Center / 3rd & Trinity,
+10,5,Davis at Rainey Street,62.49990137475826
+10,5,Guadalupe & 21st,24.106758781040508
+10,5,South Congress & Academy,151.55430616245948
+10,5,West & 6th St.,37.52749364598897
+10,6,17th & Guadalupe,22.65485331449881
+10,6,2nd & Congress,72.5400456618921
+10,6,5th & Bowie,46.76956400389982
+10,6,8th & Congress,22.814639125341216
+10,6,City Hall / Lavaca & 2nd,37.44727146530456
+10,6,Convention Center / 3rd & Trinity,
+10,6,Davis at Rainey Street,29.423764486149683
+10,6,Guadalupe & 21st,21.216388733858235
+10,6,South Congress & Academy,134.82158863278372
+10,6,West & 6th St.,59.283417364753255
+10,7,17th & Guadalupe,18.010639447244188
+10,7,2nd & Congress,81.60331440813822
+10,7,5th & Bowie,47.97591888936178
+10,7,8th & Congress,20.671384987286157
+10,7,City Hall / Lavaca & 2nd,36.62237907475795
+10,7,Convention Center / 3rd & Trinity,
+10,7,Davis at Rainey Street,31.913830911040847
+10,7,Guadalupe & 21st,20.35875009593821
+10,7,South Congress & Academy,85.72760930208877
+10,7,West & 6th St.,34.85786289715112
+10,8,17th & Guadalupe,19.829370440668253
+10,8,2nd & Congress,95.57383437833037
+10,8,5th & Bowie,49.19748350714817
+10,8,8th & Congress,18.378129476959092
+10,8,City Hall / Lavaca & 2nd,32.9819882234352
+10,8,Convention Center / 3rd & Trinity,
+10,8,Davis at Rainey Street,54.06774783684569
+10,8,Guadalupe & 21st,20.535737913417446
+10,8,South Congress & Academy,95.35691469077075
+10,8,West & 6th St.,32.914808710340154
+10,9,17th & Guadalupe,23.118715155484004
+10,9,2nd & Congress,82.77397159496756
+10,9,5th & Bowie,68.69986912301485
+10,9,8th & Congress,25.12973907583152
+10,9,City Hall / Lavaca & 2nd,45.05428990948456
+10,9,Convention Center / 3rd & Trinity,
+10,9,Davis at Rainey Street,36.38384581389397
+10,9,Guadalupe & 21st,13.202551097436698
+10,9,South Congress & Academy,128.0484780329232
+10,9,West & 6th St.,35.606971212544536
+10,10,17th & Guadalupe,23.820862707780286
+10,10,2nd & Congress,122.42668070642297
+10,10,5th & Bowie,61.207948824228104
+10,10,8th & Congress,21.96060067484915
+10,10,City Hall / Lavaca & 2nd,57.268149097430246
+10,10,Convention Center / 3rd & Trinity,
+10,10,Davis at Rainey Street,70.62025462187093
+10,10,Guadalupe & 21st,21.548842368678358
+10,10,South Congress & Academy,105.78078151430331
+10,10,West & 6th St.,31.67915941694365
+10,11,17th & Guadalupe,21.416713948656128
+10,11,2nd & Congress,113.05175853111838
+10,11,5th & Bowie,59.6698507503814
+10,11,8th & Congress,16.80203087926473
+10,11,City Hall / Lavaca & 2nd,46.92663386647902
+10,11,Convention Center / 3rd & Trinity,
+10,11,Davis at Rainey Street,45.261208995065964
+10,11,Guadalupe & 21st,13.950699038560453
+10,11,South Congress & Academy,118.15761807973583
+10,11,West & 6th St.,43.85050371282857
+10,12,17th & Guadalupe,21.49259575224331
+10,12,2nd & Congress,57.16115029270752
+10,12,5th & Bowie,45.58757554069315
+10,12,8th & Congress,18.250951574271216
+10,12,City Hall / Lavaca & 2nd,47.64939428342669
+10,12,Convention Center / 3rd & Trinity,
+10,12,Davis at Rainey Street,54.472723594258845
+10,12,Guadalupe & 21st,15.464891699337574
+10,12,South Congress & Academy,114.42146000590925
+10,12,West & 6th St.,35.625769153505594
+10,13,17th & Guadalupe,19.710424649215735
+10,13,2nd & Congress,77.56201035223991
+10,13,5th & Bowie,52.54077688109987
+10,13,8th & Congress,15.17116919417963
+10,13,City Hall / Lavaca & 2nd,53.45905642848499
+10,13,Convention Center / 3rd & Trinity,
+10,13,Davis at Rainey Street,49.112942596242
+10,13,Guadalupe & 21st,24.99265464647941
+10,13,South Congress & Academy,97.53135625511855
+10,13,West & 6th St.,36.84950325812542
+10,14,17th & Guadalupe,22.833653498396412
+10,14,2nd & Congress,94.21156112459603
+10,14,5th & Bowie,52.325286414035354
+10,14,8th & Congress,12.67216355771858
+10,14,City Hall / Lavaca & 2nd,55.93323864109532
+10,14,Convention Center / 3rd & Trinity,
+10,14,Davis at Rainey Street,42.7581661284644
+10,14,Guadalupe & 21st,19.996226953757112
+10,14,South Congress & Academy,115.23416380921658
+10,14,West & 6th St.,44.884167319992
+10,15,17th & Guadalupe,20.48981512473637
+10,15,2nd & Congress,73.58630096542949
+10,15,5th & Bowie,55.2570706157482
+10,15,8th & Congress,33.572249414114765
+10,15,City Hall / Lavaca & 2nd,49.04914410061638
+10,15,Convention Center / 3rd & Trinity,
+10,15,Davis at Rainey Street,43.56551601762511
+10,15,Guadalupe & 21st,16.04555764800865
+10,15,South Congress & Academy,100.5488363145171
+10,15,West & 6th St.,45.585209541881994
+10,16,17th & Guadalupe,28.80926570032976
+10,16,2nd & Congress,84.79042199795703
+10,16,5th & Bowie,37.673465470835076
+10,16,8th & Congress,18.504936779541367
+10,16,City Hall / Lavaca & 2nd,50.07908878188992
+10,16,Convention Center / 3rd & Trinity,
+10,16,Davis at Rainey Street,34.57777045300237
+10,16,Guadalupe & 21st,18.590183051967312
+10,16,South Congress & Academy,70.30883492155105
+10,16,West & 6th St.,37.46475609432036
+10,17,17th & Guadalupe,16.56070025170128
+10,17,2nd & Congress,75.8847884631124
+10,17,5th & Bowie,40.773367944378506
+10,17,8th & Congress,14.05115575500861
+10,17,City Hall / Lavaca & 2nd,31.964408847622675
+10,17,Convention Center / 3rd & Trinity,
+10,17,Davis at Rainey Street,41.5060102132248
+10,17,Guadalupe & 21st,11.355087330153472
+10,17,South Congress & Academy,105.2602716676462
+10,17,West & 6th St.,33.56282251036707
+10,18,17th & Guadalupe,27.10990562117106
+10,18,2nd & Congress,89.28751374442878
+10,18,5th & Bowie,42.77779413156535
+10,18,8th & Congress,22.93171455844593
+10,18,City Hall / Lavaca & 2nd,33.92616506272884
+10,18,Convention Center / 3rd & Trinity,
+10,18,Davis at Rainey Street,54.2021480086551
+10,18,Guadalupe & 21st,12.555466562039724
+10,18,South Congress & Academy,81.14372435168303
+10,18,West & 6th St.,22.578868252972118
+10,19,17th & Guadalupe,13.626407059963103
+10,19,2nd & Congress,51.53294748484959
+10,19,5th & Bowie,33.58474679760255
+10,19,8th & Congress,14.732694291523227
+10,19,City Hall / Lavaca & 2nd,29.260484953120176
+10,19,Convention Center / 3rd & Trinity,
+10,19,Davis at Rainey Street,34.02138593115137
+10,19,Guadalupe & 21st,16.95980348460612
+10,19,South Congress & Academy,68.83996514129342
+10,19,West & 6th St.,21.4965282968403
+10,20,17th & Guadalupe,15.10705157996977
+10,20,2nd & Congress,77.60285689207551
+10,20,5th & Bowie,48.38471599715744
+10,20,8th & Congress,16.57038253716381
+10,20,City Hall / Lavaca & 2nd,56.63955408762901
+10,20,Convention Center / 3rd & Trinity,
+10,20,Davis at Rainey Street,47.9990841357294
+10,20,Guadalupe & 21st,16.69562979291662
+10,20,South Congress & Academy,117.88234352409377
+10,20,West & 6th St.,34.52067059529778
+10,21,17th & Guadalupe,17.813368024282425
+10,21,2nd & Congress,97.16772827008191
+10,21,5th & Bowie,46.57220374897687
+10,21,8th & Congress,15.360214569446603
+10,21,City Hall / Lavaca & 2nd,43.665849750961975
+10,21,Convention Center / 3rd & Trinity,
+10,21,Davis at Rainey Street,32.27601118538712
+10,21,Guadalupe & 21st,16.01610263330265
+10,21,South Congress & Academy,96.97079535911712
+10,21,West & 6th St.,35.00477891707346
+10,22,17th & Guadalupe,17.66998440442411
+10,22,2nd & Congress,53.60870576812891
+10,22,5th & Bowie,34.331257465170665
+10,22,8th & Congress,13.693634662157228
+10,22,City Hall / Lavaca & 2nd,29.113169082377713
+10,22,Convention Center / 3rd & Trinity,
+10,22,Davis at Rainey Street,24.40623725858063
+10,22,Guadalupe & 21st,20.55637669924172
+10,22,South Congress & Academy,111.84204591725631
+10,22,West & 6th St.,20.804495627424778
+10,23,17th & Guadalupe,16.646978397683988
+10,23,2nd & Congress,50.38041180405019
+10,23,5th & Bowie,37.24893951933223
+10,23,8th & Congress,18.577937234661913
+10,23,City Hall / Lavaca & 2nd,42.02509295865344
+10,23,Convention Center / 3rd & Trinity,
+10,23,Davis at Rainey Street,33.67598488623937
+10,23,Guadalupe & 21st,14.986413835260604
+10,23,South Congress & Academy,90.13300144411104
+10,23,West & 6th St.,22.477612921163516
+10,24,17th & Guadalupe,18.156231117357866
+10,24,2nd & Congress,101.11112832952584
+10,24,5th & Bowie,56.84862613180358
+10,24,8th & Congress,16.892372502282498
+10,24,City Hall / Lavaca & 2nd,48.3637654037732
+10,24,Convention Center / 3rd & Trinity,
+10,24,Davis at Rainey Street,40.3707943779771
+10,24,Guadalupe & 21st,12.81479196486468
+10,24,South Congress & Academy,73.89861719691501
+10,24,West & 6th St.,25.459324616881748
+10,25,17th & Guadalupe,20.886700699642237
+10,25,2nd & Congress,98.28696993847349
+10,25,5th & Bowie,52.1152699389324
+10,25,8th & Congress,18.470851816220787
+10,25,City Hall / Lavaca & 2nd,47.42352239996492
+10,25,Convention Center / 3rd & Trinity,
+10,25,Davis at Rainey Street,54.30709999372235
+10,25,Guadalupe & 21st,17.033864855221985
+10,25,South Congress & Academy,157.95923834238917
+10,25,West & 6th St.,34.6938871962781
+10,26,17th & Guadalupe,17.903732282024222
+10,26,2nd & Congress,83.75539548028497
+10,26,5th & Bowie,46.47524739921859
+10,26,8th & Congress,16.030794399477333
+10,26,City Hall / Lavaca & 2nd,35.920233952563756
+10,26,Convention Center / 3rd & Trinity,
+10,26,Davis at Rainey Street,30.236604736604622
+10,26,Guadalupe & 21st,18.204798257664446
+10,26,South Congress & Academy,122.81480944413828
+10,26,West & 6th St.,33.88803260111881
+10,27,17th & Guadalupe,15.41092390359767
+10,27,2nd & Congress,116.41386908251656
+10,27,5th & Bowie,48.48276359220608
+10,27,8th & Congress,21.145658049973008
+10,27,City Hall / Lavaca & 2nd,42.53934628236773
+10,27,Convention Center / 3rd & Trinity,
+10,27,Davis at Rainey Street,36.520673151230554
+10,27,Guadalupe & 21st,18.424499445026285
+10,27,South Congress & Academy,98.23954495154156
+10,27,West & 6th St.,46.8638487012887
+10,28,17th & Guadalupe,25.511228659220635
+10,28,2nd & Congress,104.64632468680908
+10,28,5th & Bowie,36.97178905123675
+10,28,8th & Congress,19.818068565484044
+10,28,City Hall / Lavaca & 2nd,34.90036767112157
+10,28,Convention Center / 3rd & Trinity,
+10,28,Davis at Rainey Street,42.850767487633895
+10,28,Guadalupe & 21st,10.119594184723523
+10,28,South Congress & Academy,87.29819454719657
+10,28,West & 6th St.,32.12720995590323
+10,29,17th & Guadalupe,15.66209475317814
+10,29,2nd & Congress,71.89368143551044
+10,29,5th & Bowie,56.52182031055597
+10,29,8th & Congress,18.09134700535734
+10,29,City Hall / Lavaca & 2nd,32.526766755695654
+10,29,Convention Center / 3rd & Trinity,
+10,29,Davis at Rainey Street,34.75165316479869
+10,29,Guadalupe & 21st,28.55785363897456
+10,29,South Congress & Academy,76.0526960908039
+10,29,West & 6th St.,42.89393426251825
+10,30,17th & Guadalupe,27.43860632592155
+10,30,2nd & Congress,115.5695704986415
+10,30,5th & Bowie,57.086819627436405
+10,30,8th & Congress,15.946489535500866
+10,30,City Hall / Lavaca & 2nd,48.580172857081116
+10,30,Convention Center / 3rd & Trinity,
+10,30,Davis at Rainey Street,41.29899357665792
+10,30,Guadalupe & 21st,21.746691515036876
+10,30,South Congress & Academy,134.72023553130327
+10,30,West & 6th St.,57.5265143102392
+10,31,17th & Guadalupe,19.51580217653582
+10,31,2nd & Congress,117.58654767455587
+10,31,5th & Bowie,58.044365942963445
+10,31,8th & Congress,17.281978834730474
+10,31,City Hall / Lavaca & 2nd,62.04571480940614
+10,31,Convention Center / 3rd & Trinity,
+10,31,Davis at Rainey Street,63.30467335814288
+10,31,Guadalupe & 21st,28.913833721941128
+10,31,South Congress & Academy,109.11183468222676
+10,31,West & 6th St.,43.0247275240311
