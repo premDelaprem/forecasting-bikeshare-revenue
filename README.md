@@ -1,4 +1,4 @@
-# Building an ARIMA Model to Forecast Bike Share Revenue
+# Building an ARIMA Model to Forecast Bike Share Revenue (README in progress)
 
 ## Overview
 In this project, I thoroughly clean bike-share data from 2014-2015 to build a simplistic ARIMA model to forecast daily revenue per bike station in 2016. I also clean a complementary weather dataset consisting of potential exogenous variables that may prove useful in a future project to improve the forecast. <br>
